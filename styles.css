@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 0;
+  background-color: #ffffff; 
+  color: #000000;
+}
+
+h1 {
+  font-size: 28px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+p {
+  margin: 10px 0;
+}
+
+ul {
+  margin: 10px 0 20px 20px;
+}
+
+a {
+  color: #0000ee; 
+  text-decoration: underline;
+}
+
+nav, .nav-links {
+  text-align: center;
+  margin-top: 20px;
+}
+
+hr {
+  margin: 25px 0;
+  border: 0;
+  border-top: 1px solid #cccccc;
+}
